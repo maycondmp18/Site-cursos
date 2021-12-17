@@ -1,0 +1,992 @@
+[30-Apr-2021 15:11:14 America/Fortaleza] PHP Notice:  Undefined index: status in /home4/multso47/public_html/gestor/login.php on line 42
+[30-Apr-2021 15:11:14 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/multso47/public_html/gestor/login.php:42) in /home4/multso47/public_html/gestor/login.php on line 44
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:11:28 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:13:44 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:03 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: imagem in /home4/multso47/public_html/gestor/admin.php on line 407
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/multso47/public_html/gestor/admin.php on line 409
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: id_professor in /home4/multso47/public_html/gestor/admin.php on line 412
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 415
+[30-Apr-2021 15:14:12 America/Fortaleza] PHP Notice:  Undefined index: data in /home4/multso47/public_html/gestor/admin.php on line 417
+[07-Jun-2021 08:51:30 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 370
+[09-Jun-2021 21:38:02 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 370
+[09-Jun-2021 21:39:31 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 370
+[15-Jun-2021 19:49:57 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 370
+[17-Jun-2021 16:35:13 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 370
+[17-Jun-2021 17:41:20 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 370
+[25-Jun-2021 13:17:43 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 370
+[26-Jun-2021 11:37:59 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 370
+[26-Jun-2021 11:38:45 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 370
+[26-Jun-2021 23:02:16 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home4/multso47/public_html/gestor/admin.php on line 370

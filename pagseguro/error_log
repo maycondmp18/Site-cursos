@@ -1,0 +1,12 @@
+[28-Apr-2021 14:25:27 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/multso47/public_html/pagseguro/salvarpedido.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/multso47/public_html/pagseguro/salvarpedido.php on line 22
+[28-Apr-2021 14:25:30 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/multso47/public_html/pagseguro/salvarpedido.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/multso47/public_html/pagseguro/salvarpedido.php on line 22
+[28-Apr-2021 14:25:36 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home4/multso47/public_html/pagseguro/notifica.php:60
+Stack trace:
+#0 {main}
+  thrown in /home4/multso47/public_html/pagseguro/notifica.php on line 60

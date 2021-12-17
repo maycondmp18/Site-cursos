@@ -1,0 +1,8 @@
+[28-Apr-2021 08:51:59 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/multso47/public_html/pagamento/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/multso47/public_html/pagamento/index.php on line 6
+[28-Apr-2021 14:26:40 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/multso47/public_html/pagamento/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/multso47/public_html/pagamento/index.php on line 6

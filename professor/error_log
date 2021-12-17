@@ -1,0 +1,57 @@
+[30-Apr-2021 13:50:39 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home4/multso47/public_html/professor/conexao.php on line 27
+[30-Apr-2021 18:09:17 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 149
+[30-Apr-2021 18:09:17 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 153
+[30-Apr-2021 18:09:54 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 149
+[30-Apr-2021 18:09:54 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 153
+[01-May-2021 08:39:15 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 149
+[01-May-2021 08:39:15 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 153
+[01-May-2021 08:42:22 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 149
+[01-May-2021 08:42:22 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 153
+[01-May-2021 08:42:31 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 149
+[01-May-2021 08:42:31 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 153
+[01-May-2021 08:43:46 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 149
+[01-May-2021 08:43:46 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 153
+[04-May-2021 09:17:51 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 149
+[04-May-2021 09:17:51 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 153
+[04-May-2021 09:18:01 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 149
+[04-May-2021 09:18:01 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 153
+[07-May-2021 17:38:06 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/multso47/public_html/professor/processos.php:61) in /home4/multso47/public_html/professor/processos.php on line 71
+[07-May-2021 17:44:20 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/multso47/public_html/professor/processos.php:61) in /home4/multso47/public_html/professor/processos.php on line 71
+[07-May-2021 17:47:27 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/multso47/public_html/professor/processos.php:61) in /home4/multso47/public_html/professor/processos.php on line 71
+[07-May-2021 17:47:57 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/multso47/public_html/professor/processos.php:61) in /home4/multso47/public_html/professor/processos.php on line 71
+[07-May-2021 17:49:17 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/multso47/public_html/professor/processos.php:61) in /home4/multso47/public_html/professor/processos.php on line 71
+[07-May-2021 17:51:02 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/multso47/public_html/professor/processos.php:61) in /home4/multso47/public_html/professor/processos.php on line 71
+[07-May-2021 17:52:29 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/multso47/public_html/professor/processos.php:61) in /home4/multso47/public_html/professor/processos.php on line 71
+[08-May-2021 23:46:53 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/multso47/public_html/professor/processos.php:61) in /home4/multso47/public_html/professor/processos.php on line 71
+[08-May-2021 23:47:18 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/multso47/public_html/professor/processos.php:61) in /home4/multso47/public_html/professor/processos.php on line 71
+[09-May-2021 00:00:03 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/multso47/public_html/professor/processos.php:61) in /home4/multso47/public_html/professor/processos.php on line 71
+[09-May-2021 00:02:55 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/multso47/public_html/professor/processos.php:61) in /home4/multso47/public_html/professor/processos.php on line 71
+[09-May-2021 13:22:06 America/Fortaleza] PHP Notice:  Undefined index: user_id in /home4/multso47/public_html/professor/main.php on line 7
+[09-May-2021 13:22:06 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 149
+[09-May-2021 13:22:06 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 153
+[10-May-2021 21:55:41 America/Fortaleza] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home4/multso47/public_html/professor/main.php on line 258
+[10-May-2021 21:56:34 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home4/multso47/public_html/professor/main.php on line 271
+[10-May-2021 22:11:42 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 165
+[10-May-2021 22:11:42 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 169
+[10-May-2021 22:12:29 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 165
+[10-May-2021 22:12:29 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 169
+[10-May-2021 22:16:08 America/Fortaleza] PHP Notice:  Undefined index: avaliacao in /home4/multso47/public_html/professor/main.php on line 267
+[29-May-2021 10:36:25 America/Fortaleza] PHP Notice:  Undefined index: user_id in /home4/multso47/public_html/professor/main.php on line 7
+[29-May-2021 10:36:25 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 165
+[29-May-2021 10:36:25 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 169
+[29-May-2021 21:41:28 America/Fortaleza] PHP Notice:  Undefined index: user_id in /home4/multso47/public_html/professor/main.php on line 7
+[29-May-2021 21:41:28 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 165
+[29-May-2021 21:41:28 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 169
+[29-May-2021 21:42:00 America/Fortaleza] PHP Notice:  Undefined index: user_id in /home4/multso47/public_html/professor/main.php on line 7
+[29-May-2021 21:42:00 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 165
+[29-May-2021 21:42:00 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 169
+[09-Jun-2021 21:43:18 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 182
+[09-Jun-2021 21:43:18 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 186
+[25-Jun-2021 13:19:38 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 182
+[25-Jun-2021 13:19:38 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 186
+[25-Jun-2021 13:20:07 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 182
+[25-Jun-2021 13:20:07 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 186
+[25-Jun-2021 13:20:10 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 182
+[25-Jun-2021 13:20:10 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 186
+[25-Jun-2021 13:20:18 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 182
+[25-Jun-2021 13:20:18 America/Fortaleza] PHP Notice:  Undefined index: user_status in /home4/multso47/public_html/professor/main.php on line 186

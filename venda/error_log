@@ -1,0 +1,244 @@
+[28-Apr-2021 19:04:31 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home4/multso47/public_html/venda/conexao.php:8
+Stack trace:
+#0 /home4/multso47/public_html/venda/conexao.php(8): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home4/multso47/public_html/venda/index.php(3): include('/home4/multso47...')
+#2 {main}
+  thrown in /home4/multso47/public_html/venda/conexao.php on line 8
+[28-Apr-2021 19:04:36 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home4/multso47/public_html/venda/conexao.php:8
+Stack trace:
+#0 /home4/multso47/public_html/venda/conexao.php(8): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home4/multso47/public_html/venda/index.php(3): include('/home4/multso47...')
+#2 {main}
+  thrown in /home4/multso47/public_html/venda/conexao.php on line 8
+[29-Apr-2021 21:10:26 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/pagamento.php on line 15
+[29-Apr-2021 21:10:26 America/Fortaleza] PHP Warning:  simplexml_load_string(): Internal Server Error in /home4/multso47/public_html/venda/pagamento.php on line 15
+[29-Apr-2021 21:10:26 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/pagamento.php on line 15
+[29-Apr-2021 23:37:28 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}' in /home4/multso47/public_html/venda/index.php on line 16
+[29-Apr-2021 23:37:40 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}' in /home4/multso47/public_html/venda/index.php on line 16
+[29-Apr-2021 23:41:50 America/Fortaleza] PHP Parse error:  syntax error, unexpected '<' in /home4/multso47/public_html/venda/index.php on line 15
+[29-Apr-2021 23:47:16 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '{' or '$' in /home4/multso47/public_html/venda/index.php on line 15
+[30-Apr-2021 13:38:01 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 13:38:01 America/Fortaleza] PHP Warning:  simplexml_load_string(): Unauthorized in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 13:38:01 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 13:42:01 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 13:42:01 America/Fortaleza] PHP Warning:  simplexml_load_string(): Unauthorized in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 13:42:01 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 13:46:22 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 13:46:22 America/Fortaleza] PHP Warning:  simplexml_load_string(): Unauthorized in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 13:46:22 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 14:10:59 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 14:10:59 America/Fortaleza] PHP Warning:  simplexml_load_string(): Unauthorized in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 14:10:59 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 14:39:43 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 14:39:43 America/Fortaleza] PHP Warning:  simplexml_load_string(): Unauthorized in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 14:39:43 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 14:39:56 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 14:39:56 America/Fortaleza] PHP Warning:  simplexml_load_string(): Unauthorized in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 14:39:56 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 15:03:15 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 15:03:15 America/Fortaleza] PHP Warning:  simplexml_load_string(): Unauthorized in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 15:03:15 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 15:45:48 America/Fortaleza] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home4/multso47/public_html/venda/class.phpmailer.php on line 2714
+[30-Apr-2021 15:48:11 America/Fortaleza] PHP Warning:  fopen(): Filename cannot be empty in /home4/multso47/public_html/venda/testedeemail.php on line 4
+[30-Apr-2021 15:48:47 America/Fortaleza] PHP Warning:  fopen(): Filename cannot be empty in /home4/multso47/public_html/venda/testedeemail.php on line 4
+[30-Apr-2021 15:52:39 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$boundary' (T_VARIABLE) in /home4/multso47/public_html/venda/testedeemail.php on line 19
+[30-Apr-2021 15:53:37 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$boundary' (T_VARIABLE) in /home4/multso47/public_html/venda/testedeemail.php on line 19
+[30-Apr-2021 15:54:44 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$boundary' (T_VARIABLE) in /home4/multso47/public_html/venda/testedeemail.php on line 19
+[30-Apr-2021 15:55:27 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$boundary' (T_VARIABLE) in /home4/multso47/public_html/venda/testedeemail.php on line 19
+[30-Apr-2021 16:04:21 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$boundary' (T_VARIABLE) in /home4/multso47/public_html/venda/testedeemail.php on line 17
+[30-Apr-2021 16:18:00 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 16:18:00 America/Fortaleza] PHP Warning:  simplexml_load_string(): Unauthorized in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 16:18:00 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 16:19:44 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 16:19:44 America/Fortaleza] PHP Warning:  simplexml_load_string(): Unauthorized in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 16:19:44 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 16:41:33 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 16:41:33 America/Fortaleza] PHP Warning:  simplexml_load_string(): Unauthorized in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 16:41:33 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 18:17:56 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 18:17:56 America/Fortaleza] PHP Warning:  simplexml_load_string(): Unauthorized in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 18:17:56 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 18:21:13 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 18:21:13 America/Fortaleza] PHP Warning:  simplexml_load_string(): Unauthorized in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 18:21:13 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 18:22:36 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 18:22:36 America/Fortaleza] PHP Warning:  simplexml_load_string(): Unauthorized in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 18:22:36 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 18:30:18 America/Fortaleza] PHP Fatal error:  Uncaught Exception: Serialization of 'SimpleXMLElement' is not allowed in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[30-Apr-2021 18:30:20 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 18:30:20 America/Fortaleza] PHP Warning:  simplexml_load_string(): Unauthorized in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 18:30:20 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 18:34:22 America/Fortaleza] PHP Fatal error:  Uncaught Exception: Serialization of 'SimpleXMLElement' is not allowed in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[30-Apr-2021 18:34:24 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 18:34:24 America/Fortaleza] PHP Warning:  simplexml_load_string(): Unauthorized in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 18:34:24 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 18:37:12 America/Fortaleza] PHP Fatal error:  Uncaught Exception: Serialization of 'SimpleXMLElement' is not allowed in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[30-Apr-2021 18:37:34 America/Fortaleza] PHP Fatal error:  Uncaught Exception: Serialization of 'SimpleXMLElement' is not allowed in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[30-Apr-2021 18:41:08 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 18:41:08 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 18:41:08 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 18:45:46 America/Fortaleza] PHP Fatal error:  Uncaught Exception: Serialization of 'SimpleXMLElement' is not allowed in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[30-Apr-2021 18:46:44 America/Fortaleza] PHP Fatal error:  Uncaught Exception: Serialization of 'SimpleXMLElement' is not allowed in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[30-Apr-2021 18:53:08 America/Fortaleza] PHP Fatal error:  Uncaught Exception: Serialization of 'SimpleXMLElement' is not allowed in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[30-Apr-2021 18:54:08 America/Fortaleza] PHP Fatal error:  Uncaught Exception: Serialization of 'SimpleXMLElement' is not allowed in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[30-Apr-2021 18:58:34 America/Fortaleza] PHP Fatal error:  Uncaught Exception: Serialization of 'SimpleXMLElement' is not allowed in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[30-Apr-2021 19:05:56 America/Fortaleza] PHP Parse error:  syntax error, unexpected '{' in /home4/multso47/public_html/venda/finalizado.php on line 24
+[30-Apr-2021 19:06:32 America/Fortaleza] PHP Fatal error:  Uncaught Exception: Serialization of 'SimpleXMLElement' is not allowed in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[30-Apr-2021 19:06:32 America/Fortaleza] PHP Parse error:  syntax error, unexpected '{' in /home4/multso47/public_html/venda/finalizado.php on line 24
+[30-Apr-2021 19:29:24 America/Fortaleza] PHP Parse error:  syntax error, unexpected '.' in /home4/multso47/public_html/venda/finalizado.php on line 34
+[30-Apr-2021 19:30:53 America/Fortaleza] PHP Parse error:  syntax error, unexpected '.' in /home4/multso47/public_html/venda/finalizado.php on line 34
+[30-Apr-2021 19:36:21 America/Fortaleza] PHP Fatal error:  Uncaught Exception: Serialization of 'SimpleXMLElement' is not allowed in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[30-Apr-2021 19:43:36 America/Fortaleza] PHP Fatal error:  Uncaught Exception: Serialization of 'SimpleXMLElement' is not allowed in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[30-Apr-2021 20:20:45 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 20:20:45 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 20:20:45 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 20:23:06 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 20:23:06 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 20:23:06 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 20:23:58 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 20:23:58 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 20:23:58 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 20:27:47 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 20:27:47 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 20:27:47 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 20:29:17 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 20:29:17 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 20:29:17 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 20:33:28 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 20:33:28 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 20:33:28 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 22:25:24 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 22:25:24 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 22:25:24 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 22:26:52 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 22:26:52 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 22:26:52 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 22:29:55 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 22:29:55 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 22:29:55 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 22:30:59 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 22:30:59 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 22:30:59 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 22:32:53 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 22:32:53 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[30-Apr-2021 22:32:53 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 00:16:06 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 00:16:06 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 00:16:06 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 00:22:50 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 00:22:50 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 00:22:50 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 00:23:59 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 00:23:59 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 00:23:59 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 00:25:33 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 00:25:33 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 00:25:33 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 00:26:02 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 00:26:02 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 00:26:02 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 02:20:01 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 02:20:01 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 02:20:01 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 02:25:33 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 02:25:33 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 02:25:33 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 02:25:51 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 02:25:51 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 02:25:51 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 04:24:00 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 04:24:00 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 04:24:00 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 04:24:05 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 04:24:05 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[01-May-2021 04:24:05 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 08:10:55 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 08:10:55 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 08:10:55 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 08:11:07 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 08:11:07 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 08:11:07 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 08:11:22 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 08:11:22 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 08:11:22 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 10:22:07 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 10:22:07 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 10:22:07 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 10:22:08 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 10:22:08 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 10:22:08 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 10:22:08 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 10:22:08 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 10:22:08 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 12:32:23 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 12:32:23 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 12:32:23 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 12:32:24 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 12:32:24 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 12:32:24 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 12:32:25 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 12:32:25 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 12:32:25 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 14:31:05 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 14:31:05 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 14:31:05 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 14:31:05 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 14:31:05 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 14:31:05 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 16:16:22 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 16:16:22 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 16:16:22 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 16:31:10 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 16:31:10 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 16:31:10 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 18:16:49 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 18:16:49 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 18:16:49 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 18:21:22 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 18:21:22 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 18:21:22 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 18:31:32 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 18:31:32 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 18:31:32 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 20:20:55 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 20:20:55 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 20:20:55 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 20:24:11 America/Fortaleza] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 20:24:11 America/Fortaleza] PHP Warning:  simplexml_load_string(): Not Found in /home4/multso47/public_html/venda/response.php on line 16
+[15-May-2021 20:24:11 America/Fortaleza] PHP Warning:  simplexml_load_string(): ^ in /home4/multso47/public_html/venda/response.php on line 16
